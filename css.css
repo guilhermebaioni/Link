@@ -1,0 +1,41 @@
+#corpo-link{
+    background-image: url('https://media.giphy.com/media/xUA7aXVM5862E2XRXq/giphy.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.div-link{
+    margin: 0 auto;
+    width: 800px;
+}
+
+ul{
+    margin-left: 50px;
+}
+
+.link:hover{
+    color: white;
+    background: black;
+}
+
+.link{
+    font-size: 40px;
+    color: pink;
+    margin-left: 20px;
+}
+
+.link:visited{
+    color: white;
+}
+
+.link:active{
+    font-size: 110%;
+}
+
+#corpo-abrir{
+    background-image: url('https://thumbs.gfycat.com/HorribleEmbarrassedEgg-small.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
